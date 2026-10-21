@@ -1,0 +1,10 @@
+{
+  "name": "enigma-resolved-incidents-fix",
+  "version": "1.0.0",
+  "description": "Fix del conteo de incidentes resueltos del dashboard de Enigma",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT"
+}
